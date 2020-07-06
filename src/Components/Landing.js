@@ -1,11 +1,16 @@
 import React from 'react';
+import styled from 'styled-components';
+
+const LandingContainer = styled.div`
+
+`;
 
 const Landing = props => {
 
     return (
-        <div>
-            
-        </div>
+        <LandingContainer>
+            Landing
+        </LandingContainer>
     )
 }
 
